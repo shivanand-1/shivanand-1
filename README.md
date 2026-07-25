@@ -37,7 +37,7 @@
 ![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,8 +51,8 @@
 * 🌾 **Smart AgriContract**
   soil and the disease prediction system connecting farmers directly with buy the solution and conseltency
 
-* 🎯 **Mine Prediction AI**
-  Probability-based prediction system for gaming simulations
+* 🎯 **resume parser**
+  parsing the resume with the detail matching
 
 ---
 
@@ -72,7 +72,7 @@
 * 💼 LinkedIn: https://www.linkedin.com/in/shivanand-devakate-b81077281?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * 📧 Email: shivananddevakate2@gmail.com
 * insta:https://www.instagram.com/shivu._.0017?igsh=MTYxZDExcXRhbndqOA==
-* 🌍 Portfolio:https://shivanand-1.netlify.app/
+* 🌍 Portfolio:https://shivanand-17.netlify.app/
 
 ---
 
