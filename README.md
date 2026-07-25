@@ -79,7 +79,9 @@
 ## 🏆 Achievements
 
 * 📜 Infosys Springboard Certified
+* 📜 qspiders data science intern
 * 📜 Yhills Certification
+* 📜 Data Science course (code with harry)
 * 🧪 Built multiple real-world AI projects
 
 ---
