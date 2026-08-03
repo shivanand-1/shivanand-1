@@ -12,14 +12,10 @@
 * 🤖 Working on AI Projects like:
 
   * AI Nutrition Analyzer
-  * Smart AgriContract (Blockchain-based)
+  * student helper
   * Mine Prediction Simulation
 * 📊 Learning: Data Science, Machine Learning, Deep Learning
 * 🔥 Currently building: AI Agents & Automation Systems
-
----
-
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
