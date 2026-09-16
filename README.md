@@ -1,129 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shivanand%20Devakate&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20Backend%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0f2440,100:1a3a5c&height=220&section=header&text=Shivanand%20Devakate&fontSize=40&fontColor=e6f1ff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Backend%20%26%20GenAI%20Systems&descAlignY=54&descSize=17"/>
 
-<a href="https://www.linkedin.com/in/shivanand-devakate"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/shivanand-1"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://shivanand-1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:shivananddevakate497@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivanand-devakate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/shivanand-1"><img src="https://img.shields.io/badge/GitHub-121826?style=for-the-badge&logo=github&logoColor=00e5ff"/></a>
+<a href="https://shivanand-1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f2440?style=for-the-badge&logo=vercel&logoColor=00e5ff"/></a>
+<a href="mailto:shivananddevakate497@gmail.com"><img src="https://img.shields.io/badge/Email-1a3a5c?style=for-the-badge&logo=gmail&logoColor=00e5ff"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Building+production-grade+RAG+pipelines;Shipping+Computer+Vision+detection+services;Turning+ML+prototypes+into+real+APIs;Final-year+CSE+%40+VTU+%7C+2026"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+production-ready+AI+systems;Engineering+RAG+pipelines;Deploying+Computer+Vision+APIs;Turning+ML+models+into+scalable+services;Python+%E2%80%A2+FastAPI+%E2%80%A2+GenAI+%E2%80%A2+Computer+Vision"/>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-I'm a final-year **Computer Science & Engineering** student (VTU, 2026) working as a freelance **Data Scientist** and **AI Engineer** based in Bengaluru. I specialize in taking LLM and ML techniques — Retrieval-Augmented Generation, computer vision, predictive modeling — and packaging them into production-grade APIs and services that solve a specific, real-world problem end to end.
+I build AI and data-driven applications that connect machine learning models with production-oriented backend systems. My work spans Retrieval-Augmented Generation, computer vision inference, and predictive modeling — each shipped as a working API rather than a notebook experiment.
+
+I hold a B.E. in Computer Science & Engineering (VTU) and currently work as a freelance Data Scientist / AI Engineer based in Bengaluru, India, building end-to-end systems: FastAPI service layers, vector-store-backed retrieval, and ML pipelines wired into usable products.
+
+<br/>
+
+## Engineering Profile
 
 ```python
 class ShivanandDevakate:
-    def __init__(self):
-        self.role         = "AI Engineer & Data Scientist"
-        self.location     = "Bengaluru, India"
-        self.education    = "B.E. CSE, VTU — Class of 2026"
-        self.focus        = ["RAG Systems", "Computer Vision", "FastAPI Backends", "Predictive ML"]
-        self.currently    = "Open to Data Scientist / ML Engineer roles"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent.")
+    role        = "AI Engineer / Data Scientist"
+    location    = "Bengaluru, India"
+    focus       = ["RAG Systems", "Computer Vision", "FastAPI Backends", "Predictive ML"]
+    stack       = ["Python", "FastAPI", "LangChain", "PyTorch", "TensorFlow", "PostgreSQL"]
+    building    = "Production-oriented AI services, one pipeline at a time"
+    philosophy  = "A model isn't done until it's behind an API"
 ```
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
-<div align="center">
-
-**Languages & Data**
+**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,mysql,oracle"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 **AI / Machine Learning**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 <br/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-7B1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-EC0000?style=flat-square"/>
 
-**Backend & Infrastructure**
+**Generative AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode,postgres"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/RAG-1a3a5c?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Embeddings-1a3a5c?style=flat-square"/>
 
-**Data & Analytics**
+**Computer Vision**
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-</div>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/> <img src="https://img.shields.io/badge/REST%20APIs-1a3a5c?style=flat-square"/>
+
+**Data**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/> <img src="https://img.shields.io/badge/ChromaDB-1a3a5c?style=flat-square"/>
+
+**DevOps / Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 
 <br/>
 
-## 🚀 Featured Projects
+## ⚙️ How I Build AI Systems
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```mermaid
+flowchart TD
+    A[User] --> B[Frontend / API Client]
+    B --> C[FastAPI Service Layer]
+    C --> D[AI / ML Pipeline]
+    D --> E[RAG · Model Inference · Computer Vision]
+    E --> F[Vector DB / PostgreSQL]
+    F --> G[Response]
+```
+
+Every project follows this shape: a thin, predictable API in front, the model or retrieval logic isolated in its own layer, and persistence handled separately from inference — so components can be swapped without rewriting the system.
+
+<br/>
+
+## Featured Projects
 
 ### 🧠 AI-Powered RAG Knowledge System
-Retrieval-augmented question-answering system built on LangChain and ChromaDB, with a FastAPI service layer for document-grounded queries.
 
-`LangChain` `FastAPI` `ChromaDB` `Groq`
+**Problem:** Static documents are hard to query — users need direct, grounded answers instead of manually searching through files.
 
-</td>
-<td width="50%" valign="top">
+**Solution:** A retrieval-augmented question-answering service that ingests documents, indexes them for semantic search, and answers queries with context pulled from the source material.
+
+**Engineering:** Document ingestion → chunking → embedding generation → vector storage in ChromaDB → semantic retrieval → context-augmented LLM response, exposed through a FastAPI layer.
+
+```mermaid
+flowchart TD
+    A[Documents] --> B[Ingestion]
+    B --> C[Text Splitting]
+    C --> D[Embeddings]
+    D --> E[ChromaDB]
+    E --> F[Semantic Retrieval]
+    F --> G[Relevant Context]
+    G --> H[LLM]
+    H --> I[Grounded Response]
+```
+
+**Stack:** `LangChain` `FastAPI` `ChromaDB` `Groq` `Embeddings`
+
+**Key Engineering Concepts:** RAG · Vector Search · Embeddings · API Integration
+
+---
 
 ### 🍎 AI Nutrition Detection System
-Computer-vision pipeline that identifies food items from images and estimates nutritional content via a YOLOv8 model served through FastAPI.
 
-`YOLOv8` `FastAPI` `OpenCV`
+**Problem:** Manually logging food intake and nutrition is tedious and error-prone.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Solution:** A computer-vision pipeline that detects food items from an image, estimates portion size, and maps detections to nutritional data — served through a FastAPI endpoint.
+
+```mermaid
+flowchart TD
+    A[Image] --> B[Preprocessing]
+    B --> C[YOLOv8]
+    C --> D[Food Detection]
+    D --> E[Quantity Estimation]
+    E --> F[Nutrition Mapping]
+    F --> G[FastAPI]
+    G --> H[Result]
+```
+
+**Stack:** `YOLOv8` `FastAPI` `OpenCV`
+
+**Key Engineering Concepts:** Object Detection · Model Inference · API Integration
+
+---
 
 ### 🎥 YouTube Video RAG Summarizer
-Transcribes video audio — including Hindi-to-English via Whisper — and answers questions against the transcript using retrieval-augmented generation.
 
-`Whisper` `yt-dlp` `LangChain` `RAG`
+**Problem:** Long-form video content is time-consuming to review for specific information.
 
-</td>
-<td width="50%" valign="top">
+**Solution:** Extracts and transcribes video audio (including Hindi-to-English transcription via Whisper), then enables retrieval-augmented Q&A and summarization over the transcript.
+
+```mermaid
+flowchart TD
+    A[YouTube URL] --> B[Audio Extraction]
+    B --> C[Whisper Transcription]
+    C --> D[Text Processing]
+    D --> E[Chunking]
+    E --> F[Embeddings]
+    F --> G[Vector Retrieval]
+    G --> H[LLM]
+    H --> I[Summary / Q&A]
+```
+
+**Stack:** `Whisper` `yt-dlp` `LangChain` `RAG`
+
+**Key Engineering Concepts:** Speech-to-Text · RAG · Vector Search · Data Processing
+
+---
 
 ### 💊 MediSense AI
-Drug-interaction checker powered by an XGBoost model, built full-stack with FastAPI + React and hybrid PostgreSQL/ChromaDB storage.
 
-`XGBoost` `FastAPI` `React` `PostgreSQL`
+**Problem:** Checking for drug interactions manually is slow and easy to get wrong.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Solution:** A drug-interaction checker combining an XGBoost classification model with a full-stack FastAPI + React application, using hybrid PostgreSQL and ChromaDB storage.
+
+**Stack:** `XGBoost` `FastAPI` `React` `PostgreSQL` `ChromaDB`
+
+**Key Engineering Concepts:** Model Inference · REST API · Database Integration
+
+---
 
 ### 🌾 AgriContract
-Agritech platform combining crop recommendation, soil analysis, and disease prediction with blockchain-backed contracts linking farmers directly to buyers.
 
-`Machine Learning` `Python` `FastAPI`
+**Problem:** Farmers often lack direct, transparent access to buyers and agronomic guidance.
 
-</td>
-<td width="50%" valign="top">
+**Solution:** An agritech platform combining crop recommendation, soil analysis, and disease prediction with blockchain-backed contracts connecting farmers directly to buyers.
+
+**Stack:** `Python` `FastAPI` `Machine Learning`
+
+**Key Engineering Concepts:** Predictive Modeling · API Integration · Data Processing
+
+---
 
 ### 🏠 Bengaluru House Price Prediction
-Regression-based pricing model for Bengaluru real estate, with feature engineering and comparison across multiple algorithms.
 
-`Scikit-learn` `Pandas` `Regression`
+**Problem:** Real estate pricing in Bengaluru varies widely and is hard to estimate consistently.
 
-</td>
-</tr>
-</table>
+**Solution:** A regression-based pricing model with feature engineering, trained and compared across multiple algorithms to estimate property prices.
+
+**Stack:** `Scikit-learn` `Pandas` `Regression`
+
+**Key Engineering Concepts:** Feature Engineering · Model Evaluation · Data Processing
 
 <div align="center">
 
 *More projects on <a href="https://github.com/shivanand-1">GitHub</a> and in my <a href="https://shivanand-1.netlify.app">portfolio</a>.*
 
 </div>
+
+<br/>
+
+## 🧩 Engineering Principles
+
+- Build before over-engineering
+- Keep APIs predictable
+- Separate data, business logic, and inference
+- Prefer measurable results over assumptions
+- Design ML systems for integration, not isolation
+- Write software that can be maintained by someone else
+
+<br/>
+
+## Currently Building
+
+- Production-oriented RAG systems
+- FastAPI services around ML and CV models
+- Computer vision inference pipelines
+- Data-driven APIs for real-world use cases
 
 <br/>
 
@@ -144,23 +245,28 @@ Regression-based pricing model for Bengaluru real estate, with feature engineeri
 
 ## 🏆 Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Certified-0B5FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QSpiders-Data%20Science%20Internship-2c5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YHills-ML%20%26%20Preprocessing-2c5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CodeWithHarry-Data%20Science-FF4500?style=for-the-badge"/>
-
-</div>
+| Certification | Issuer |
+|---|---|
+| Data Science Internship | QSpiders |
+| Data Preprocessing & ML | YHills |
+| Data Science | Infosys Springboard |
+| Data Science | CodeWithHarry |
 
 <br/>
 
+## Connect
+
 <div align="center">
 
-### 💬 Let's Connect
+**Interested in building AI-powered products or data-driven systems?**
 
-Open to **Data Scientist**, **ML Engineer**, and **Data Analyst** roles — reach out via <a href="mailto:shivananddevakate497@gmail.com">email</a> or <a href="https://www.linkedin.com/in/shivanand-devakate">LinkedIn</a>.
+<a href="https://www.linkedin.com/in/shivanand-devakate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/shivanand-1"><img src="https://img.shields.io/badge/GitHub-121826?style=for-the-badge&logo=github&logoColor=00e5ff"/></a>
+<a href="https://shivanand-1.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f2440?style=for-the-badge&logo=vercel&logoColor=00e5ff"/></a>
+<a href="mailto:shivananddevakate497@gmail.com"><img src="https://img.shields.io/badge/Email-1a3a5c?style=for-the-badge&logo=gmail&logoColor=00e5ff"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:0f2440,100:0a0e27&height=120&section=footer"/>
 
 </div>
